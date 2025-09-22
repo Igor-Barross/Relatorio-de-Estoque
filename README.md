@@ -7,11 +7,11 @@ Esse é meu primeiro projeto simples, apenas uma pequena automação que fiz par
 
 Este projeto tem como objetivo automatizar a conferência de estoque entre:
 
-    - 📥 Estoque do sistema (extraído de um relatório primário)
+- 📥 Estoque do sistema (extraído de um relatório primário)
 
-    - 📦 Estoque físico (digitado manualmente pelo usuário na planilha gerada)
+- 📦 Estoque físico (digitado manualmente pelo usuário na planilha gerada)
 
-** A planilha final traz: **
+**A planilha final traz:**
 
 - Coluna para inserir estoque físico
 
@@ -31,6 +31,4 @@ pandas
 openpyxl
  → escrita, fórmulas e formatação no Excel
 
-
-```
 
