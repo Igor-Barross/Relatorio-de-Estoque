@@ -1,7 +1,9 @@
 
-📊 Projeto de Comparação de Estoque
+Esse é meu primeiro projeto simples, apenas uma pequena automação que fiz para uma tarefa repetiva no meu trabalho, onde eu tinha que sempre escrever uma nova planilha manualmente sempre que quisse fazer essa comparação. Decidi utilizar python para tornar isso mais automático.
 
-📌 Descrição
+#📊 Projeto de Comparação de Estoque
+
+##📌 Descrição
 
 Este projeto tem como objetivo automatizar a conferência de estoque entre:
 
@@ -11,15 +13,15 @@ Este projeto tem como objetivo automatizar a conferência de estoque entre:
 
 A planilha final traz:
 
-Coluna para inserir estoque físico
+- Coluna para inserir estoque físico
 
-Cálculo automático da diferença entre físico e sistema
+- Cálculo automático da diferença entre físico e sistema
 
-Cálculo do custo da diferença
+- Cálculo do custo da diferença
 
-Estilização da planilha (largura de colunas, alinhamento, bordas, formatação de números)
+- Estilização da planilha (largura de colunas, alinhamento, bordas, formatação de números)
 
-⚙️ Tecnologias Utilizadas
+##⚙️ Tecnologias Utilizadas
 
 Python 3.x
 
